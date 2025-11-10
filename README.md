@@ -121,5 +121,3 @@ Each page is processed independently, and the results are combined into a final,
 
 **Abhay Bhandari**
 🚀 Backend Developer | Data Science & AI Enthusiast
-
-Would you like me to also include a **`requirements.txt`** file with exact dependencies (for Colab + local setup)?
