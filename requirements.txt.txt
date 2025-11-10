@@ -1,0 +1,15 @@
+# Core OCR and PDF tools
+pytesseract
+pdf2image
+fpdf
+Pillow
+
+# Groq SDK
+groq
+
+# LangChain (optional, used in step 1 experiments)
+langchain
+langchain_groq
+
+# Utility and file handling
+pathlib
